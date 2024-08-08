@@ -4,3 +4,11 @@
 
 ## 📚 Материалы 
 - [День 1:](https://github.com/BearBoy2003/Intensive-Product-Management/tree/main/day1) Продукт и его жизненный цикл
+
+## ⚙ Технологии и навыки, которые освоил 
+- Product Life Cycle
+- Customer Development (CustDev)
+- Карта пути клиента (CJM)
+- Minimal Viable Product (MVP)
+- A/B тесты
+- Agile-методологии
